@@ -1,3 +1,7 @@
+## 12.1.4
+
+* Fixes issue that path parameters are not set when using the `goBranch`.
+
 ## 12.1.3
 
 * Fixes a typo in `navigation.md`.
